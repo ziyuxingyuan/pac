@@ -1,7 +1,7 @@
 
     var hasOwnProperty = Object.hasOwnProperty;
     var iproxy ='DIRECT';
-    var out_gfw_proxy =  'PROXY 127.0.0.1:7777; SOCKS5 127.0.0.1:7777; SOCKS 127.0.0.1:7777';
+    var out_gfw_proxy =  'PROXY 127.0.0.1:1080; SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080';
     var list = [
         [
         ],
